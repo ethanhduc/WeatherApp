@@ -1,5 +1,5 @@
-//WEATHER APP
-
+//WEATHER APP 
+//Notes
 const weatherForm = document.querySelector(".weatherForm");
 const cityInput = document.querySelector(".cityInput");
 const card = document.querySelector(".card");
